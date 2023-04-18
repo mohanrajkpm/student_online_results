@@ -23,7 +23,7 @@ Execute an Application
 Clone a repository
 ------------------
 
-git clone git@github.com:mohanrajkpm/Price_app.git
+git clone git@github.com:mohanrajkpm/student_online_results.git
 
 Enter into an application
 -------------------------
