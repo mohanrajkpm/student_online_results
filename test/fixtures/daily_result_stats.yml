@@ -1,0 +1,15 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  daily_submitted_date: 2023-04-15
+  subject: MyString
+  daily_low: 9.99
+  daily_high: 9.99
+  result_count: 1
+
+two:
+  daily_submitted_date: 2023-04-15
+  subject: MyString
+  daily_low: 9.99
+  daily_high: 9.99
+  result_count: 1
